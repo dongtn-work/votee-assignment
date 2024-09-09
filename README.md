@@ -11,6 +11,7 @@
 ## Formula for scoring word
 ![My animated logo](assets/formula.png)
 
+Reference: ChatGpt and https://www.youtube.com/watch?v=v68zYyaEmEA
 ## How to run
 ### Prerequisites
 1. Install Java environment
